@@ -1,0 +1,56 @@
+{
+  "TOTAL_CONTRIBUTORS": {
+    "label": { "string": "Total Contributors" },
+    "value": {
+      "int": {
+        "min": 10000,
+        "max": 25000
+      }
+    }
+  },
+  "TOTAL_ORCHESTRATORS": {
+    "label": { "string": "Total Orchestrators" },
+    "value": {
+      "int": {
+        "min": 10000,
+        "max": 25000
+      }
+    }
+  },
+  "TOTAL_EXECUTION_NODES": {
+    "label": { "string": "Total Executors" },
+    "value": {
+      "int": {
+        "min": 10000,
+        "max": 25000
+      }
+    }
+  },
+  "TOTAL_HEAD_NODES": {
+    "label": { "string": "Total Head Nodes" },
+    "value": {
+      "int": {
+        "min": 10000,
+        "max": 25000
+      }
+    }
+  },
+  "TOTAL_DEPLOYED_FUNCTIONS": {
+    "label": { "string": "Deployed Functions" },
+    "value": {
+      "int": {
+        "min": 10000,
+        "max": 25000
+      }
+    }
+  },
+  "AVG_EXECUTION_TIME": {
+    "label": { "string": "Average Execution Time" },
+    "value": {
+      "int": {
+        "min": 10000,
+        "max": 25000
+      }
+    }
+  }
+}
